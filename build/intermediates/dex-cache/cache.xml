@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hello\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\hello\AndroidStudioProjects\TrafficLightMania\app\build\intermediates\pre-dexed\release\support-annotations-23.0.0_21f255e062f7e60524acb746236f2c3d6bb0486f.jar" />
+    </item>
+    <item
+        jar="C:\Users\hello\.gradle\caches\modules-2\files-2.1\com.purplebrain.adbuddiz.sdk\AdBuddiz-Java\3.1.8\288c995c43e38b44347c07ba76a44a1846bafaf0\AdBuddiz-Java-3.1.8.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="288c995c43e38b44347c07ba76a44a1846bafaf0">
+        <dex dex="C:\Users\hello\AndroidStudioProjects\TrafficLightMania\app\build\intermediates\pre-dexed\release\AdBuddiz-Java-3.1.8_44d6bb0e7bf4b5455ebc16d4e401bf710772c95a.jar" />
+    </item>
+    <item
+        jar="C:\Users\hello\AndroidStudioProjects\TrafficLightMania\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\hello\AndroidStudioProjects\TrafficLightMania\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.0.0_4e975c6626596c6e8454831b05ec0b28bd9befff.jar" />
+    </item>
+    <item
+        jar="C:\Users\hello\AndroidStudioProjects\TrafficLightMania\app\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="C:\Users\hello\AndroidStudioProjects\TrafficLightMania\app\build\intermediates\pre-dexed\release\com.android.support-design-23.0.0_eb282362ed05c6dc35fad53bb43e7550011e90ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\hello\AndroidStudioProjects\TrafficLightMania\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\hello\AndroidStudioProjects\TrafficLightMania\app\build\intermediates\pre-dexed\release\internal_impl-23.0.0_5133eeff211160254f398638bdffe55ac96957a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\hello\AndroidStudioProjects\TrafficLightMania\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\hello\AndroidStudioProjects\TrafficLightMania\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.0.0_497b6fdef2b67e6599c579e9118b4697dac30ea1.jar" />
+    </item>
+
+</items>
